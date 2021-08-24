@@ -1,4 +1,4 @@
-Hi, I'm Alexandre Lavoie :nerd_face:
+## Hi, I'm Alexandre Lavoie :nerd_face:
 
 I'm a developer and pentester from [Montreal, QC](https://restaurantlabelleprovince.com/). I'm finishing up my Undergrad in Computer Science at [Concordia University](https://www.concordia.ca/).
 
