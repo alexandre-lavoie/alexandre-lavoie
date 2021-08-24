@@ -1,23 +1,22 @@
-## Hi, I'm Alex 👋
+Hi, I'm Alexandre Lavoie :nerd_face:
 
-#### 👨 About Me
-- https://alexandre-lavoie.github.io/
+I'm a developer and pentester from [Montreal, QC](https://restaurantlabelleprovince.com/). I'm finishing up my Undergrad in Computer Science at [Concordia University](https://www.concordia.ca/).
 
-#### 🛡️ Cyber Security
-- https://github.com/hackmtlca
-- https://github.com/alexandre-lavoie/exploit.me
-- https://github.com/alexandre-lavoie/ctf-tools
+#### Top Projects
 
-#### 🎮 Gaming
-- https://github.com/alexandre-lavoie/mcge
-- https://github.com/alexandre-lavoie/Go-Go-Dungeon
-- https://github.com/alexandre-lavoie/byte-sudoku
+- [PEPNG](https://github.com/pepng-CU) (:computer:)
+- [Go Go Dungeon](https://github.com/alexandre-lavoie/Go-Go-Dungeon) (:video_game:)
+- [Deep Physics](https://github.com/alexandre-lavoie/deep-physics) (:brain:)
+- [exploit.me](https://github.com/alexandre-lavoie/exploit.me) (:shield:)
 
-#### 🧠 Machine Learning
-- https://github.com/alexandre-lavoie/deep-physics
-- https://github.com/alexandre-lavoie/youtube-bot
+#### I Love
 
-#### 🗣️ Programming Languages
-- https://github.com/alexandre-lavoie/mips-emulator / https://github.com/alexandre-lavoie/mips-compiler
-- https://github.com/alexandre-lavoie/assembly-lisp
-- https://github.com/alexandre-lavoie/dig
+[Python](https://www.python.org/) + [pwntools](https://github.com/Gallopsled/pwntools), [VS Code](https://code.visualstudio.com/), [NixOS](https://nixos.org/), [Docker](https://www.docker.com/), [Rust](https://www.rust-lang.org/), [WebAssembly](https://webassembly.org/) / [Emscripten](https://emscripten.org/), [TypeScript](https://www.typescriptlang.org/), [Phaser](https://phaser.io/).
+
+#### Controversial Opinions
+
+- All software should be free and open source.
+- No one should be using Windows.
+- There should be no client-side JavaScript.
+- AI/ML is overrated.
+- nano > vim.
