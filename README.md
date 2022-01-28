@@ -7,7 +7,7 @@ I'm a developer and pentester from [Montreal, QC](https://restaurantlabelleprovi
 - [PEPNG](https://github.com/pepng-CU) (:computer:)
 - [Go Go Dungeon](https://github.com/alexandre-lavoie/Go-Go-Dungeon) (:video_game:)
 - [Deep Physics](https://github.com/alexandre-lavoie/deep-physics) (:brain:)
-- [exploit.me](https://github.com/alexandre-lavoie/exploit.me) (:shield:)
+- [python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) (:shield:)
 
 #### I Love
 
