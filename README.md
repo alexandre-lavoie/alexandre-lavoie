@@ -15,8 +15,7 @@ I'm an SDE in [Toronto, ON](https://www.cntower.ca/) originally from [Montreal, 
 
 #### Controversial Opinions
 
-- All software should be free and open source.
-- No one should be using Windows.
-- There should be no client-side JavaScript.
+- Windows sucks.
+- Java/JavaScript are obsolete.
 - AI/ML is overrated.
 - nano > vim.
