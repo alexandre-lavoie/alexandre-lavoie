@@ -1,21 +1,19 @@
 ## Hi, I'm Alexandre Lavoie :nerd_face:
 
-I'm an SDE in [Toronto, ON](https://www.cntower.ca/) originally from [Montreal, QC](https://restaurantlabelleprovince.com/). Find me in a rock/metal venue after hours!
+I'm an SDE from [Montreal, QC](https://restaurantlabelleprovince.com/). Find me in a rock/metal venue after hours!
 
-#### Top Projects
+#### Top Projects :trophy:
 
-- [PEPNG](https://github.com/pepng-CU) (:computer:)
-- [Go Go Dungeon](https://github.com/alexandre-lavoie/Go-Go-Dungeon) (:video_game:)
 - [Deep Physics](https://github.com/alexandre-lavoie/deep-physics) (:brain:)
+- [F-Six](https://github.com/f6-476/f-six) (:video_game:)
+- [PEPNG](https://github.com/pepng-CU) (:computer:)
 - [python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) (:shield:)
 
-#### I Love
+#### I Love :heart:
 
-[Python](https://www.python.org/) + [pwntools](https://github.com/Gallopsled/pwntools), [VS Code](https://code.visualstudio.com/), [NixOS](https://nixos.org/), [Docker](https://www.docker.com/), [Rust](https://www.rust-lang.org/), [WebAssembly](https://webassembly.org/) / [Emscripten](https://emscripten.org/), [TypeScript](https://www.typescriptlang.org/), [Phaser](https://phaser.io/).
-
-#### Controversial Opinions
-
-- Windows sucks.
-- Java/JavaScript are obsolete.
-- AI/ML is overrated.
-- nano > vim.
+- [Arch Linux](https://archlinux.org/)
+- [C](https://www.learn-c.org/)
+- [Nim](https://nim-lang.org/)
+- [Python](https://www.python.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [VS Code](https://code.visualstudio.com/)
