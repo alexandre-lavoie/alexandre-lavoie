@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandre Lavoie :nerd_face:
 
-I'm an SDE from [Montreal, QC](https://restaurantlabelleprovince.com/). Find me in a rock/metal venue after hours!
+I'm from [Montreal, QC](https://restaurantlabelleprovince.com/). Find me in a rock/metal venue after hours!
 
 #### Top Projects :trophy:
 
