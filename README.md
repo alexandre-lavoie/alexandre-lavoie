@@ -2,18 +2,18 @@
 
 I'm from [Montreal, QC](https://restaurantlabelleprovince.com/). Find me in a rock/metal venue after hours!
 
-#### Top Projects :trophy:
+#### Recent Projects :mag:
 
-- [Deep Physics](https://github.com/alexandre-lavoie/deep-physics) (:brain:)
-- [F-Six](https://github.com/f6-476/f-six) (:video_game:)
-- [PEPNG](https://github.com/pepng-CU) (:computer:)
-- [python-log4rce](https://github.com/alexandre-lavoie/python-log4rce) (:shield:)
+- [ctf-builder](https://github.com/alexandre-lavoie/ctf-builder)
+- [nimng](https://github.com/alexandre-lavoie/nimng)
+- [match-game](https://github.com/alexandre-lavoie/match-game)
+- [DOOM on Essence](https://gitlab.com/nakst/essence/-/merge_requests/10)
+- [F-Six](https://github.com/f6-476/f-six)
 
 #### I Love :heart:
 
-- [Arch Linux](https://archlinux.org/)
-- [C](https://www.learn-c.org/)
-- [Nim](https://nim-lang.org/)
+- [Arch Linux](https://archlinux.org/) (btw)
+- [Zig](https://ziglang.org/)
 - [Python](https://www.python.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [VS Code](https://code.visualstudio.com/)
